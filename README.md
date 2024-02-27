@@ -20,8 +20,8 @@ Certifique-se de ter o seguinte programas instalado em sua máquina:
 Após seguir os passos anteriores você pode acessar a aplicação através do endereço `http://localhost:3000`.
 
 ## 📢 Acesso da Pokédex
-- E-mail: teste@verum.com
-- Senha: teste2024
+- E-mail: `teste@verum.com`
+- Senha: `teste2024`
 
 ## **Tecnologias Utilizadas:**
 
