@@ -2,7 +2,7 @@
 
 Este é um projeto de Pokédex que utiliza React.
 
-## 🧐 Observação: 
+## 🧐 Observação 
 
 Certifique-se de ter o seguinte programas instalado em sua máquina:
 - Node.js
