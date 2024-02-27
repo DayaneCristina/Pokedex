@@ -1,0 +1,11 @@
+.customModal {
+  background: transparent;
+  min-width: 400px;
+  box-shadow: none;
+}
+
+.react-responsive-modal-closeButton {
+  top: 5px;
+  right: 5px;
+  background-color: white;
+}
