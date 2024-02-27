@@ -1,4 +1,4 @@
-const baseURL = 'http://192.168.100.164:3000/api/pokemon/';
+const baseURL = 'http://localhost:3333/api/pokemon/';
 
 export const searchPokemon = async (pokemon) => {
   try {
